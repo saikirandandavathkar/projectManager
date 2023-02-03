@@ -1,0 +1,53 @@
+.usernameDetailContainer {
+  list-style-type: none;
+  background-color: transparent;
+  width: 30%;
+  max-width: 500px;
+  border-width: 1px;
+  border-color: #ffffff;
+  border-style: solid;
+  display: flex;
+  border-radius: 5px;
+  padding: 12px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.DetailContainer {
+  display: flex;
+  align-items: center;
+}
+
+.initial-style {
+  background-color: #10b981;
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+}
+
+.star-image {
+  width: 100px;
+  height: 10px;
+}
+
+.heading {
+  font-family: 'Roboto';
+  color: white;
+  font-size: 12px;
+}
+
+.deleteContainer {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  width: 100%;
+}
+
+.delete-image {
+  width: 20px;
+  height: 20px;
+}
